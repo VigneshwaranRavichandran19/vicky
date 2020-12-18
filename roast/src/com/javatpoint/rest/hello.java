@@ -22,7 +22,7 @@ public class hello {
   @GET  
   @Produces(MediaType.TEXT_HTML)  
   public String sayHtmlHello() {  
-    return "<html> " + "<title>" + "Hello vigneshwaran" + "</title>"  
+    return "<html> " + "<title>" + "Hello vigneshwaran first commit" + "</title>"  
         + "<body><h1>" + "Hello Jersey HTML" + "</h1></body>" + "</html> ";  
   }  
 }   
