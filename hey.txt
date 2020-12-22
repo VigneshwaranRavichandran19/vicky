@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+changed
+hi i am vigneshwaran Ravichandran
+=======
+theek hi i am vigneshwaran Ravichandran
+>>>>>>> bugfix
+git edit 1
+
+git edit 2
+
+branching
